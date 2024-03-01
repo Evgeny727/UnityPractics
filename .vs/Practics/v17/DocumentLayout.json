@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Applications\\Unity\\Unity Projects\\Practics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\thirdandfourthcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdandfourthcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\firstsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThirdAndFourthCube.cs",
+              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\ThirdAndFourthCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdAndFourthCube.cs",
+              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\ThirdAndFourthCube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdAndFourthCube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:56:55.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstSphere.cs",
+              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\FirstSphere.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstSphere.cs",
+              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\FirstSphere.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstSphere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:56:23.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
