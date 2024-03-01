@@ -62,6 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\FirstSphere.cs" />
     <Compile Include="Assets\Scripts\ThirdAndFourthCube.cs" />
+    <Compile Include="Assets\Scripts\PR5\MouseLook.cs" />
+    <Compile Include="Assets\Scripts\PR5\Movement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
