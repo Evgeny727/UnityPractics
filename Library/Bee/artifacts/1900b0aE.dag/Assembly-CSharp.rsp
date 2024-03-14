@@ -355,6 +355,7 @@
 "Assets/Scripts/FirstSphere.cs"
 "Assets/Scripts/PR5/MouseLook.cs"
 "Assets/Scripts/PR5/Movement.cs"
+"Assets/Scripts/PR6/SpawnPrebaf.cs"
 "Assets/Scripts/ThirdAndFourthCube.cs"
 -langversion:9.0
 

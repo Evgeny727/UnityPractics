@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Applications\\Unity\\Unity Projects\\Practics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr5\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr5\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr6\\spawnprebaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr6\\spawnprebaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr5\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr5\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr5\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr5\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Movement.cs",
               "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR5\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PR5\\Movement.cs",
               "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR5\\Movement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PR5\\Movement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:43:23.195Z",
+              "WhenOpened": "2024-03-14T13:48:28.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MouseLook.cs",
-              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR5\\MouseLook.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PR5\\MouseLook.cs",
-              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR5\\MouseLook.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PR5\\MouseLook.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwCYAAAAtAAAA",
+              "DocumentIndex": 0,
+              "Title": "SpawnPrebaf.cs",
+              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR6\\SpawnPrebaf.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PR6\\SpawnPrebaf.cs",
+              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR6\\SpawnPrebaf.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PR6\\SpawnPrebaf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:26:19.884Z",
+              "WhenOpened": "2024-03-14T13:07:11.534Z",
               "EditorCaption": ""
             }
           ]
