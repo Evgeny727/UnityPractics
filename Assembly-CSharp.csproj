@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PR7\Door_open.cs" />
     <Compile Include="Assets\Scripts\PR6\SpawnPrebaf.cs" />
+    <Compile Include="Assets\Scripts\PR9\PRAnimation.cs" />
     <Compile Include="Assets\Scripts\FirstSphere.cs" />
     <Compile Include="Assets\Scripts\PR8\Guard.cs" />
     <Compile Include="Assets\Scripts\ThirdAndFourthCube.cs" />

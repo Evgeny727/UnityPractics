@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Applications\\Unity\\Unity Projects\\Practics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr8\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr8\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr8\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr8\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr8\\looker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr8\\looker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr9\\pranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr9\\pranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Looker.cs",
-              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR8\\Looker.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PR8\\Looker.cs",
-              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR8\\Looker.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PR8\\Looker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T12:29:20.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Guard.cs",
-              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR8\\Guard.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PR8\\Guard.cs",
-              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR8\\Guard.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PR8\\Guard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T12:29:23.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR8\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PR8\\Player.cs",
-              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR8\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PR8\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Title": "PRAnimation.cs",
+              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR9\\PRAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PR9\\PRAnimation.cs",
+              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR9\\PRAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PR9\\PRAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T12:29:14.604Z",
+              "WhenOpened": "2024-04-28T12:39:22.387Z",
               "EditorCaption": ""
             }
           ]

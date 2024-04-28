@@ -364,6 +364,7 @@
 "Assets/Scripts/PR8/Guard.cs"
 "Assets/Scripts/PR8/Looker.cs"
 "Assets/Scripts/PR8/Player.cs"
+"Assets/Scripts/PR9/PRAnimation.cs"
 "Assets/Scripts/ThirdAndFourthCube.cs"
 -langversion:9.0
 
