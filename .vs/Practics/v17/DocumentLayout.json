@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Applications\\Unity\\Unity Projects\\Practics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr11\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr11\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr10\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr10\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|d:\\applications\\unity\\unity projects\\practics\\assets\\scripts\\pr12\\musicplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A473BFEC-5285-C033-8978-838F28ED42EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pr12\\musicplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SceneChange.cs",
-              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR11\\SceneChange.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PR11\\SceneChange.cs",
-              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR11\\SceneChange.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PR11\\SceneChange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Title": "MusicPlay.cs",
+              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR12\\MusicPlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PR12\\MusicPlay.cs",
+              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR12\\MusicPlay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PR12\\MusicPlay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T14:28:57.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Button.cs",
-              "DocumentMoniker": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR10\\Button.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PR10\\Button.cs",
-              "ToolTip": "D:\\Applications\\Unity\\Unity Projects\\Practics\\Assets\\Scripts\\PR10\\Button.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PR10\\Button.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T13:31:53.845Z",
+              "WhenOpened": "2024-05-04T10:47:39.423Z",
               "EditorCaption": ""
             }
           ]

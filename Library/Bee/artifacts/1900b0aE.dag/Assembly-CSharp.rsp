@@ -363,6 +363,7 @@
 "Assets/Scripts/FirstSphere.cs"
 "Assets/Scripts/PR10/Button.cs"
 "Assets/Scripts/PR11/SceneChange.cs"
+"Assets/Scripts/PR12/MusicPlay.cs"
 "Assets/Scripts/PR5/MouseLook.cs"
 "Assets/Scripts/PR5/Movement.cs"
 "Assets/Scripts/PR6/SpawnPrebaf.cs"
